@@ -1,4 +1,4 @@
-# QUT IFN645-Data-Mining-Assignment
+# QUT IFN645 Data Mining Assignment
 Outline of a number of different approaches to evaluation of data mining techniques, completed as part of an individual assignment in IFN645 - Large Scale Data Mining at QUT. Mining algorithms are referenced from Weka library version 3.5.8.
 
 ### Association Rule Evaluation
